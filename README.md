@@ -1,5 +1,7 @@
 # experimento-detector-de-metales-casero
+
 Configuración para leer las señales PWM con arduino.
+
 // Declarar una variable para almacenar el valor leído
 int valorAnalogico = 0;
 
