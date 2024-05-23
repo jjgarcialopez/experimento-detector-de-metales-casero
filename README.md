@@ -1,4 +1,7 @@
 # experimento-detector-de-metales-casero
+Nota:  todas las instrucciones y el codigo se encuentran en el documento word que esta adjunto en este repositorio, debe descargarlo para poder visualizar el contenido. 
+haga click donde esta el titulo Configuracion para leer señales pwm y luego de click en donde dice View Raw, y se descargara el documento con la información.
+
 
 Configuración para leer las señales PWM con arduino.
 
